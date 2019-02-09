@@ -1,2 +1,2 @@
-#Example repository
+#ExampleRepository
 this is my example repository
